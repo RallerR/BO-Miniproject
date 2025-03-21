@@ -3,7 +3,7 @@ import time
 import json
 from Dataset_creation import generate_centered_grid
 
-API_KEY = "AIzaSyBGdA07gn5mXni6Ym-hAdO69dDwsDpCrHA"  # Replace with your actual API Key
+API_KEY = ""  # Replace with your actual API Key
 BASE_URL = "https://maps.googleapis.com/maps/api/elevation/json"
 MAX_URL_LENGTH = 16000  # Slightly below 16,384 to be safe
 
